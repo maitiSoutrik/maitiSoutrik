@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 I am Soutrik (usually go by SOU-TRICK)
+Currently working as an Embedded Software Designer.
+Pronouns : He/Him
+Languages : C, C++, Python
+
 <!--
 **maitiSoutrik/maitiSoutrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
