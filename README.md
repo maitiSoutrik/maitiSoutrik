@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 I am Soutrik (usually go by SOU-TRICK)
+
 Currently working as an Embedded Software Designer.
+
 Pronouns : He/Him
+
 Languages : C, C++, Python
 
 <!--
